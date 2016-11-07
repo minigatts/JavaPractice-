@@ -16,9 +16,9 @@ public class GameLogic {
         boolean value = sBlocks[first - 1].getId() == sBlocks[second - 1].getId() && sBlocks[second - 1].getId() == sBlocks[third - 1].getId();
         if (value) {
             if (sBlocks[first - 1].getId() == CIRCLE)
-                sWinner = "CIRCLE";
+                sWinner = "CUNT";
             else
-                sWinner = "CROSS";
+                sWinner = "COCK";
             sSet = set;
         }
         return value;

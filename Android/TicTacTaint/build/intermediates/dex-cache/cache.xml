@@ -3,57 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="3cd4f2c146d718fc1fae11bad59d867557419b4d">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e7e0dc69f80818b557b72caacbdeb3a0410a1492\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_391935c60f928df34c87cdd00e99d6db3bfd1622\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Chantz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_7efd159a621a94e008050c2c9feb9924381a548b\classes.dex" />
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_7efd159a621a94e008050c2c9feb9924381a548b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_4589b974be5b6643f53076d95222c96471d9c44d\classes.dex" />
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_5b7e73ff30c6fc16c3705871fa86d572f1269da2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jar="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="87e764cfd9be57d6468bb5d3a336c008364a048c">
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_68e151d734b040a843a81e911df3ec48cb09483a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_2fa01189363898dc0f805bb35bb113e607c808b5\classes.dex" />
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_cd788b41d211e859c1c2af051abc64b024aa8763\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="dcb38c3ee175047232239e162586491c9cb3d067">
-        <dex dex="C:\Users\Chantz\Desktop\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_920f56241797393b9fbdc854abde84b4a7afb547\classes.dex" />
+        sha1="93bbd748702d1ccaa567db991599d730dd7f6d18">
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_654e27657d1f72f4058c310e3ffa199e131b9eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chantz\Desktop\JavaPractice-\Android\TicTacTaint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_61a99b20c1e3f5a47c2663c3202d344410c3f46a\classes.dex" />
     </item>
 
 </items>

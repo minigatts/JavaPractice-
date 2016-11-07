@@ -78,12 +78,12 @@ public class MainActivity extends ActionBarActivity {
             mBlocks[position].setImageResource(R.drawable.circle);
             mBlocks[position].setId(GameLogic.CIRCLE);
             mTurn = TURN.CROSS;
-            mDisplay.setText("CROSS's turn");
+            mDisplay.setText("COCK's turn");
         } else {
             mBlocks[position].setImageResource(R.drawable.cross);
             mBlocks[position].setId(GameLogic.CROSS);
             mTurn = TURN.CIRCLE;
-            mDisplay.setText("CIRCLE's turn");
+            mDisplay.setText("CUNT's turn");
         }
         mBlocks[position].setEnabled(false);
         mStatusCounter++;
