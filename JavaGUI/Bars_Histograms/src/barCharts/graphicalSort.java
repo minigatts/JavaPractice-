@@ -77,7 +77,8 @@ public class graphicalSort
         int[] intArray = graphicalSort.loadArray();
         int temp;
         
-        // Use bubble sort on the array.
+        /* 
+        // Generate a bubble sorted array.
         for(int i =0; i< intArray.length ; i++)  // Outside loop.
         {
             for (int j = 1; j < intArray.length -1 ; j++)  // Inside loop.
@@ -90,21 +91,57 @@ public class graphicalSort
                 }
             }
             
-            System.out.println(i + " is " + intArray[i]);
-            
+            // Generate image for each iteration.            
             if(i%1==0)  // Change the modulo to decrease number of images made.
             {
-                BarChart demo = new BarChart(intArray, i, "Bar Chart Window", "Bar chart, bitches!");
+                BarChart demo = new BarChart(intArray, i, "Bar Chart Window", "Bubble Sort");
                 demo.pack();
                 demo.setVisible(true);
                 
-                System.out.println("End of BarMain");
+                System.out.println("End of  Bubble Sort");
             }
             
-        }      
+        }   
+        */
+        
+        /*
+        // Generate an insertion sorted array.
+        intArray = graphicalSort.loadArray();  // Load original array again.
+        int j;                  // the number of items sorted so far
+        int key;                // the item to be inserted
+        int i;  
+
+        for (j = 1; j < intArray.length; j++)    // Start with 1 (not 0)
+        {
+            key = intArray[ j ];
+            for(i = j - 1; (i >= 0) && (intArray[ i ] < key); i--)   // Smaller values are moving up
+            {
+                intArray [ i+1 ] = intArray[ i ];
+            }
+            
+            intArray[ i+1 ] = key;    // Put the key in its proper location
+        
+            
+            
+            System.out.println(j+1000);
+            BarChart demo = new BarChart(intArray, j+1000, "Bar Chart Window", "Decreasing Order Insertion Sort");
+            demo.pack();
+            demo.setVisible(true);
+            
+            System.out.println("End of Insertion Sort");
+            
+        }
+        */
+        
+        // Merge sort calls on separate method.
+        intArray = graphicalSort.loadArray();  // Load original array again.
+        
+        barCharts.mergeSort.MS(intArray);
+        
         
     }
     
 
-    
 }
+    
+
